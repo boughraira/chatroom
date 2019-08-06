@@ -1,0 +1,16 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "chat io app",
+  "main": "index.js",
+  "scripts": {
+   "start" :"node server.js"
+  },
+  "author": "hazem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
+}
